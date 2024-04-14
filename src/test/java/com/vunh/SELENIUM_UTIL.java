@@ -8,7 +8,7 @@ public class SELENIUM_UTIL {
     @Getter
     public enum OPTION {
         KEY("webdriver.chrome.driver"),
-//        VALUE("D:\\FPT_POLY\\SOF304\\Code\\Lab6Test\\chromedriver.exe"),
+        VALUE("D:\\FPT_POLY\\SOF304\\Code\\Lab6Test\\chromedriver.exe"),
         URL("http://localhost:8080/"),
         USER("admin"),
         COPYRIGHT("Nong Hoang Vu - Lab 6"),
