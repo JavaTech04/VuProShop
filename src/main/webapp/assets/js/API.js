@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/vunhph33506/API_NongHoangVu/main/Assignment";
+const url = "https://raw.githubusercontent.com/VuScriptMasterForge/VuProShop/master/src/main/webapp/assets/js/api.txt";
 const reload = document.getElementById("check-admin");
 const sign_in_input = document.getElementById("loginButton");
 const message = "Network response was not ok!";
