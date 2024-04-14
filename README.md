@@ -9,8 +9,9 @@
 - **Role-Based Authorization:** We understand the importance of data protection and ensuring user privacy. Our role-based authorization system allows administrators and users to access appropriate features and data according to their roles.
 
 <h3 align="center">Screen shotcut</h3>
-<img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/VuScriptMasterForge/VuProShop/master/photo/login.png">
-<img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/VuScriptMasterForge/VuProShop/master/photo/dashboard.png">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/VuScriptMasterForge/VuProShop/master/photo/login.png">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/VuScriptMasterForge/VuProShop/master/photo/dashboard.png">
+
 # Config_WEB
 ## JSTL 
 ```
