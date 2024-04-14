@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **FPT Software**
+- **E-commerce:**Our website provides an easy-to-use interface for browsing and purchasing products. Customers can search, view detailed information, and add items to their shopping carts before proceeding to checkout.
 
 # Config_WEB
 ## JSTL 
